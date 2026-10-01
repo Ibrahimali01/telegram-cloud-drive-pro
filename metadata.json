@@ -1,0 +1,6 @@
+{
+  "name": "TeleDrive Pro",
+  "description": "Unlimited private cloud storage powered by Telegram with Zero-Knowledge E2EE encryption, multi-account drive pools, media streaming, and proxy support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
